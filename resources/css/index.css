@@ -30,6 +30,10 @@ nav {
     padding-bottom: 10px;
 }
 
+.right {
+    float: right;
+}
+
 .flower {
     width: 200px;
     height: 200px;

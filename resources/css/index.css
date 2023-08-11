@@ -26,6 +26,10 @@ nav {
     height: 50px;
 }
 
+.item {
+    padding-bottom: 10px;
+}
+
 .flower {
     width: 200px;
     height: 200px;
